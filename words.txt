@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 five
 words
 each
 inNew
 row
-=======
-five
-words
-each
-inNew
-row
->>>>>>> 73a85d1 (Add files via upload)
-sixtROW
