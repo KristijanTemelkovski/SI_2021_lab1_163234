@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+five
+words
+each
+inNew
+row
+=======
+five
+words
+each
+inNew
+row
+>>>>>>> 73a85d138f62dbd11a6ae516e24d64a81e17daf3
+sixtROW
